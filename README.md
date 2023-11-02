@@ -1,6 +1,6 @@
 # bloc_imp
 
-A new Flutter project.
+A small project of Bloc pattern implementation in dart
 
 ## Getting Started
 
